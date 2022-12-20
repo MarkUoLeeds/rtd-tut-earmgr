@@ -13,6 +13,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
    earmgr: Lumache has its documentation hosted on Read the Docs.
+   
 Contents
 --------
 
